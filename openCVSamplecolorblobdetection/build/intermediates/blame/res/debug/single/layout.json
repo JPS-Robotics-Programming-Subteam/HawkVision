@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\KIDS\\AndroidStudioProjects\\MyApplication32\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\merged\\debug\\layout\\color_blob_detection_surface_view.xml",
         "source": "C:\\Users\\KIDS\\AndroidStudioProjects\\MyApplication32\\openCVSamplecolorblobdetection\\src\\main\\res\\layout\\color_blob_detection_surface_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIDS\\Documents\\GitHub\\HawkVision\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\merged\\debug\\layout\\color_blob_detection_surface_view.xml",
+        "source": "C:\\Users\\KIDS\\Documents\\GitHub\\HawkVision\\openCVSamplecolorblobdetection\\src\\main\\res\\layout\\color_blob_detection_surface_view.xml"
     }
 ]
