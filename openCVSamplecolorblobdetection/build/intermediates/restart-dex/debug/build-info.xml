@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="1128951751915202"
+    token="4559446743308612660"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="166" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="34" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\KIDS\AndroidStudioProjects\MyApplication32\openCVSamplecolorblobdetection\build\outputs\apk\openCVSamplecolorblobdetection-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1128951751915202"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\KIDS\AndroidStudioProjects\MyApplication32\openCVSamplecolorblobdetection\build\outputs\apk\openCVSamplecolorblobdetection-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
