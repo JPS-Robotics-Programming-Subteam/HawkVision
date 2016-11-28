@@ -1,7 +1,7 @@
-#Mon Nov 28 17:52:15 EST 2016
-base.0=C\:\\Users\\KIDS\\AndroidStudioProjects\\MyApplication32\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_71380b23bc3002eea6e897d1f84695942c314546
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\KIDS\\AndroidStudioProjects\\MyApplication32\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cea668924013471b9b38b0a6ffaaf5e93e2e3cd5\\classes.dex
-base.1=C\:\\Users\\KIDS\\AndroidStudioProjects\\MyApplication32\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cea668924013471b9b38b0a6ffaaf5e93e2e3cd5
-file.0=C\:\\Users\\KIDS\\AndroidStudioProjects\\MyApplication32\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_71380b23bc3002eea6e897d1f84695942c314546\\classes.dex
+#Mon Nov 28 18:37:43 EST 2016
+base.0=C\:\\Users\\KIDS\\Documents\\GitHub\\HawkVision\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7dc083d96a18586da41b8e49a323c161e957201b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\KIDS\\Documents\\GitHub\\HawkVision\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0e941cead081e6954d29ddca761badfa479453cb\\classes.dex
+base.1=C\:\\Users\\KIDS\\Documents\\GitHub\\HawkVision\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0e941cead081e6954d29ddca761badfa479453cb
+file.0=C\:\\Users\\KIDS\\Documents\\GitHub\\HawkVision\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7dc083d96a18586da41b8e49a323c161e957201b\\classes.dex

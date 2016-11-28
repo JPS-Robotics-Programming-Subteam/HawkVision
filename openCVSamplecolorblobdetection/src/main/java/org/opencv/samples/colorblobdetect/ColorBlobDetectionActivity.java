@@ -139,6 +139,7 @@ public class ColorBlobDetectionActivity extends Activity implements CvCameraView
             points.add(contour.toList().get(index));
         }
         point.fromList(points);
+        //hellotestingifgithubisworkinglalalala
         return point;
     }
 }
